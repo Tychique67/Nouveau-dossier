@@ -1,0 +1,165 @@
+header{
+background-color:#33697d;
+}
+.logo{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top:50px;
+}
+.nom{
+    text-align: center;
+    color: aliceblue;
+    padding: 150px;
+}
+.soul{
+    border: 1px solid;
+    border-left: 0;
+    border-right: 0;
+    width: fit-content;
+    margin: auto;
+}
+.bi{
+    color: aliceblue;
+    max-width: 100%;
+    max-height: 100%;
+    height: 50px;
+    width: 50px;
+}
+.op{
+    opacity:60% ;
+}
+.se{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img{
+    width:50%;
+}
+.ty{
+    width: 50%;
+}
+.badge{
+    width: 100px;
+    padding-top: ;
+}
+.ta{
+    text-align: center;
+}
+.tz{
+    text-align: center;
+    opacity: 70%;
+}
+.sec{
+    background-color:#f6f6f6;
+    padding-bottom: 50px;
+}
+.pa{
+    padding-top: 80px;
+}
+.image{
+    display: flex;
+}
+.text{
+    margin: auto;
+    color: white;
+    height: 60;
+}
+.text svg{
+    margin-bottom: 20px;
+    width: 100px;
+}
+.container{
+    margin: 100px auto;
+    width: 60%;
+    padding-bottom: 70px;
+    
+}
+.row >div{
+    height: 200px;
+    width: 210px !important;
+}
+.ul{
+    width: 1500px;
+}
+.po{
+    background-color: #33697d;
+}
+.pl{
+    background-color:#64cbc0;
+}
+
+.contain {
+    background-color:#3d6879; 
+    width: 100%;
+    height: 700px;
+}
+
+.block {
+    width: 65%;
+    height: 85%;
+    backgrsound-color: #2e6879;
+    display: inline-flex;
+    margin: 10px 250px auto ;
+}
+
+.form {
+    width: 45%;
+    height: 550px;
+    background-color:#2e6879; 
+    margin: auto;
+    padding: 20px;
+}
+
+.info-form {
+    width: 45%;
+    height: 550px;
+    margin: auto;
+    display: inline-block;
+}
+
+.submit {
+    background-color: red;
+    border: none;
+    float: right;
+    margin: 20px 0;
+    width: 110px;
+    height: 35px;
+    font-weight: bold;
+    color: white;
+}
+
+.info {
+    background-color:#61657d;
+    width: 100%;
+    height: 32%;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+.info h2 {
+    color: white
+} 
+
+.info p {
+    color: white
+} 
+.blanc{
+    color: white;
+    
+}
+footer{
+    padding-bottom: 50px;
+}
+.bl{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.image-centre{
+    width:50px;
+    height:50px;
+    
+}
+
